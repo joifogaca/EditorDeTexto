@@ -1,0 +1,9 @@
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojResolveAssemblyReference.cache
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.Cache
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
